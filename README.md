@@ -1,10 +1,10 @@
-# 🌍 TravelMemory - Full Stack Deployment (MERN Stack)
+# TravelMemory - Full Stack Deployment (MERN Stack)
 
 This project demonstrates the end-to-end deployment of the **TravelMemory** MERN stack application on an AWS EC2 instance, including domain mapping, load balancing, and reverse proxy setup.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 - **Frontend**: React.js  
 - **Backend**: Node.js + Express  
@@ -15,7 +15,7 @@ This project demonstrates the end-to-end deployment of the **TravelMemory** MERN
 
 ---
 
-## ✅ Features Implemented
+##  Features Implemented
 
 - Backend setup with Node.js and Express (Port `3000`)
 - Frontend setup with React.js (Port `8000`)
@@ -30,7 +30,7 @@ This project demonstrates the end-to-end deployment of the **TravelMemory** MERN
 
 ---
 
-## 🛠️ How to Deploy (Steps Summary)
+##  How to Deploy (Steps Summary)
 
 ### 1. Clone the Repository
 
@@ -95,7 +95,7 @@ server {
     Create an A record pointing to your EC2 instance
 
     Use Certbot for HTTPS setup
-### Live URL
+## Live URL
 https://jigsinc.space
 
 ### Screenshots
